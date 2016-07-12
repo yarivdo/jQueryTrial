@@ -1,0 +1,20 @@
+#headline {
+    font-family: Aharoni;
+    color: darkmagenta;
+}
+
+#panel1 {
+    font-size: 14px;
+    color: red;
+    width: 125px;
+    height: 125px;
+    border-style: solid;
+    border-color: blue;
+}
+
+#btn1 {
+    margin: 20px;
+    
+}
+
+
